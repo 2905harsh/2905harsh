@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsh Srivastav</h1>
 <p align="center">
-  A focused frontend developer, committed to building clean, scalable interfaces and constantly leveling up through real-world projects and problem-solving.
+  A focused fullStack developer, committed to building clean, scalable interfaces and constantly leveling up through real-world projects and problem-solving.
 </p>
 
 ---
